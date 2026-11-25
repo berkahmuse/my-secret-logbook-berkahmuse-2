@@ -1,6 +1,8 @@
 # My Secret Logbook — @berkahmuse-2 entry
 
 [![make.fun](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449.svg)](https://make.fun/c/u-email-baru-my-secret-logbook-cc177449)
+[![rank](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449/berkahmuse/my-secret-logbook-berkahmuse-2/rank.svg)](https://make.fun/c/u-email-baru-my-secret-logbook-cc177449)
+[![reward](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449/berkahmuse/my-secret-logbook-berkahmuse-2/reward.svg)](https://make.fun/c/u-email-baru-my-secret-logbook-cc177449)
 
 Entry for the [make.fun competition "My Secret Logbook"](https://make.fun/c/u-email-baru-my-secret-logbook-cc177449)
 (`u-email-baru-my-secret-logbook-cc177449`): one diary line, at most 200 characters,
